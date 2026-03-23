@@ -8,3 +8,6 @@ langchain-huggingface
 cassio
 python-dotenv
 beautifulsoup4
+langchain-classic
+pyasyncore
+ipykernel
