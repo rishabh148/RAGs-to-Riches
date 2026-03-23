@@ -1,0 +1,10 @@
+jupyter
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+cassio
+python-dotenv
+beautifulsoup4
