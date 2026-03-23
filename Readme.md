@@ -13,7 +13,7 @@ A Jupyter Notebook demonstrating a fully free-to-run Retrieval-Augmented Generat
 
 * **Environment:** Jupyter Notebook
 * **Framework:** LangChain
-* **LLM:** Mixtral 8x7b (via Groq API)
+* **LLM:** Llama-3.1-8b-instant (via Groq API)
 * **Embeddings:** Hugging Face Inference API (`all-MiniLM-L6-v2`)
 * **Vector Database:** DataStax Astra DB (Cassandra)
 
